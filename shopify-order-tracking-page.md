@@ -300,3 +300,7 @@ If your tracking number isn't working, please wait 2-3 days and try again. In mo
 > **NOTE:** Customers can also send an email to their desired recipient of this order confirmation information
 
 > **ALSO NOTE:** This script does not need to be updated often, fields like `Shop Email address` are automatically fed to the script from Shopify’s platform, so even if you copied this code and process and used it on a different store, it would work exactly the same without any additional changes other than updating the URL in the script.
+
+---
+
+This guide was written by [Ataah Azah](https://github.com/developedbyataah)
